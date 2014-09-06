@@ -22,7 +22,7 @@ The workshop is proposed to run for __75 minutes__.
 | Wrap-up Discussion &amp; Next Actions |	15 mins |	CNGL DCH Special Interest Group: how to move forward? |  |
 
 The proposed format for the event is to break out into groups of five people , and for each group
- to examine one or more data sources, projects and problems and see if they can come up with a research proposal based on [this template](Documents/template.md).
+ to examine one or more data sources, projects and problems and see if they can come up with a research proposal based on [this template](https://github.com/CNGL-repo/DCHWorkshop2014/blob/master/Documents/template.md).
 
 ##Call for Problems, Data & Experiences
 In advance of the workshop, if there are already researchers who would like to contribute, please visit the [Github Repo](https://github.com/CNGL-repo/DCHWorkshop2014)  and add information as a pull request, or email the facilitator.
