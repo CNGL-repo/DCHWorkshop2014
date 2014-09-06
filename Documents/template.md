@@ -1,10 +1,6 @@
----
-title: Example Project Template
----
+#_Project Title_
 
-#Project Title
-
-#Group Members
+##_Group Members_
 
 #Problem Statement
 _A brief statement of the research questions: technological and humanistic_
