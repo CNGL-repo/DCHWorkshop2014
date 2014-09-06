@@ -4,9 +4,10 @@ layout: post
 ---
 
 #Workshop on Language Technologies &amp; Digital Cultural Heritage
-##Facilitator: Alexander O’Connor <Alex.OConnor@scss.tcd.ie>
 
-##ABSTRACT
+Facilitator: Alexander O’Connor <Alex.OConnor@scss.tcd.ie>
+
+##Abstract
 A common challenge in the area of Language Technologies is the need to find data and questions to apply novel solutions to. A significant methodological question is raised when researchers define the problem, collect the data and assess the results themselves. In order to combat this, there has been a move towards the use of open science, shared tasks, and engagement with other academic communities to empower their scholarship.
 It is these themes which this workshop will focus on: Digital Cultural Heritage can provide Data, Questions and (automatic and manual) Validation. How can some of the current work in CNGL be applied to some example problems and questions?
 
